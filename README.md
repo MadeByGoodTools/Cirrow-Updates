@@ -2,7 +2,7 @@
 
 A desktop clock with weather around its face, by [Good Tools](https://goodtools.ca).
 
-**[Product page](https://goodtools.ca/tools/cirrow) · [Download the current beta](https://github.com/MadeByGoodTools/Cirrow-Updates/releases/latest)**
+**[Product page](https://goodtools.ca/tools/cirrow) · [Download the current beta](https://github.com/MadeByGoodTools/Cirrow-Updates/releases/tag/v0.1.0-beta)**
 
 Cirrow includes seven clock designs, typeface choices, a live settings preview, animated location-based weather, and independent stopwatch and countdown windows. Desktop mode keeps the clock behind normal apps; Floating is an explicit option.
 
